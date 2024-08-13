@@ -1,0 +1,2 @@
+JavaScript is a powerful language. JavaScript allows developers to create dynamic websites. 
+Developers use JavaScript to make interactive user interfaces.

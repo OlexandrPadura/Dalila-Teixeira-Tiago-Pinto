@@ -1,0 +1,2 @@
+The Node.js runtime is popular among developers for building scalable network applications. 
+Node.js applications are written in JavaScript, and they can run on various platforms.

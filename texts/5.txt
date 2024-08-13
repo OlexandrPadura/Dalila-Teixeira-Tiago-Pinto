@@ -1,0 +1,2 @@
+Web development has been revolutionized by JavaScript frameworks and libraries.
+Node.js is one such tool that has brought JavaScript to the backend, enabling full-stack JavaScript development.

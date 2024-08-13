@@ -1,0 +1,20 @@
+A word cloud (tag cloud) is a representation of text data, typically used to depict
+keyword metadata (tags) on websites, or to visualize free form text.
+
+- Write a program that will create a word cloud from the content of 5 or more files.
+- You can use any text you like. 
+- You are not required to visualize the tags; 
+- you need to create a text file, which will contain the following information:
+1. The words, ordered by frequency.
+2. How many times the word appears.
+3. Font size. The font size is calculated by the following simple rule:
+a. The most frequent word should be –> Huge
+b. > 60% (of max frequent word) –> Big
+c. > 30% (of max frequent word) –> Normal
+d. Less than 30% –> Small
+4. The words that appear once should not be present.
+
+Additional requirements:
+The program should read all text files from the specific folder.
+Read text files in different threads / tasks (in parallel).
+One thread / task should read one file.

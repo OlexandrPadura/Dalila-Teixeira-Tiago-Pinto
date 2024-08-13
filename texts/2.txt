@@ -1,0 +1,2 @@
+Node.js is built on Chrome's V8 JavaScript engine. Node.js allows for asynchronous programming.
+JavaScript is widely used in web development, and Node.js extends its usage to the server side.
